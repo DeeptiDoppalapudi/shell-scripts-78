@@ -1,7 +1,7 @@
 #!/bin/bash
 
-P1=Sachin
-P2=Rahul
+P1=$1
+P2=$2
 
 echo "$P1:: Hello $P2, How are you?
 ehco "$P2:: Hi $P1, I am fine Hru"
