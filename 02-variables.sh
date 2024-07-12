@@ -1,1 +1,1 @@
-This is for working with variables
+ehco "This is for working with variables"
